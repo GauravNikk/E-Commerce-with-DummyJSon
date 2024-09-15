@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#9D9D9D</color>
+
+
+    <color name="selected_background_color">#4CAF50</color>
+    <color name="default_background_color">#FFFFFF</color>
+    <color name="selected_text_color">#FFFFFF</color>
+    <color name="default_text_color">#000000</color>
+    <color name="green">#4CAF50</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="blue">#2196F3</color>
+    <color name="yellowgold">#FFC107</color>
+</resources>
